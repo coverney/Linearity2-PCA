@@ -10,3 +10,5 @@ The hitters dataset consists of 322 observations of major league baseball player
 
 ### ```Analysis of Breast Mass Data```
 This notebook uses PCA for logistic regression to predict whether a breast mass is benign or malignant. The data consists of 10 cell nuclei characteristics (i.e. radius, symmetry, and compactness) within 357 benign and 212 malignant images. For each characteristic, the mean, standard error, and worst values are recorded, resulting in 30 independent variables. 
+
+A PCR tutorial can be found [here](https://www.youtube.com/watch?v=Ub1JYUBCu3M&t=3s).
